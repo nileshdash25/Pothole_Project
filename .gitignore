@@ -1,0 +1,17 @@
+# Environments
+env/
+venv/
+__pycache__/
+
+# Datasets and Media
+archive/
+archive.zip
+TestPhoto/
+runs/
+media/
+
+# Database
+db.sqlite3
+
+# Large Model Files (optional, agar tera best.pt chota hai toh is line ko nikal dena)
+# yolov8n.pt
